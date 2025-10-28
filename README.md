@@ -8,9 +8,9 @@ To address this, we employ the Ant Colony Optimization (ACO) algorithm — a bio
 
 Objective
 The primary goal of this study is to:
-•	Reduce feature dimensionality by eliminating redundant or irrelevant attributes
-•	Improve fault prediction accuracy through effective feature selection
-•	Achieve better generalization across diverse datasets used for software fault prediction
+1. Reduce feature dimensionality by eliminating redundant or irrelevant attributes
+2. Improve fault prediction accuracy through effective feature selection
+3. Achieve better generalization across diverse datasets used for software fault prediction
 
 
 Methodology
