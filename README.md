@@ -24,10 +24,10 @@ A Dynamic Classifier is employed to automatically select the best-performing mod
 The model’s effectiveness is evaluated using standard performance metrics such as accuracy, precision, recall, F1-score, and ROC-AUC. Comparisons are made between models trained on the full feature set and those using the optimized subset.
 
 Key Highlights
-•	Conducted 50 iterations of ACO to achieve stable and consistent feature selection outcomes
-•	Demonstrated improved classification accuracy and reduced computation cost
-•	Showed that ACO-based feature selection enhances the predictive capability of dynamic classifiers
-•	Provided a generalized feature subset that can be effectively applied across multiple datasets
+1. Conducted 50 iterations of ACO to achieve stable and consistent feature selection outcomes
+2. Demonstrated improved classification accuracy and reduced computation cost
+3. Showed that ACO-based feature selection enhances the predictive capability of dynamic classifiers
+4. Provided a generalized feature subset that can be effectively applied across multiple datasets
 
 Conclusion
 This work demonstrates that Ant Colony Optimization can serve as an effective approach for feature selection in software fault prediction. By reducing redundant features and improving accuracy, this method contributes to building more reliable and efficient predictive models. The integration of a dynamic classifier further ensures adaptability and enhanced performance across various datasets.
