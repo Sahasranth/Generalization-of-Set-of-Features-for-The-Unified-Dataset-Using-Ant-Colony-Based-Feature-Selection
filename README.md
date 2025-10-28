@@ -5,6 +5,7 @@ This study focuses on enhancing software fault prediction by leveraging the Ant 
 To address this, we employ the Ant Colony Optimization (ACO) algorithm — a bio-inspired metaheuristic technique that simulates the foraging behavior of ants — to identify the optimal subset of features from a unified dataset. The ACO algorithm is executed 50 times to ensure stability and reliability of results, minimizing the influence of random variations and improving overall prediction performance.
 
 Objective
+
 The primary goal of this study is to:
 •	Reduce feature dimensionality by eliminating redundant or irrelevant attributes
 •	Improve fault prediction accuracy through effective feature selection
