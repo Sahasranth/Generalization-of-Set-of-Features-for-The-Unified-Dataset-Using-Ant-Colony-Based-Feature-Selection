@@ -12,6 +12,7 @@ The primary goal of this study is to:
 •	Improve fault prediction accuracy through effective feature selection
 •	Achieve better generalization across diverse datasets used for software fault prediction
 
+
 Methodology
 1.	Dataset Integration:
 Multiple datasets are unified to form a comprehensive dataset representing different software projects and metrics.
